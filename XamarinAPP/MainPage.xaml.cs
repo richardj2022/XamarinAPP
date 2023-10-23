@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.Data.SqlClient;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using XamarinAPP.Conexion;
 
 namespace XamarinAPP
 {
@@ -20,10 +23,30 @@ namespace XamarinAPP
             if (!string.IsNullOrEmpty(txtAltura.Text) && !string.IsNullOrEmpty(txtPeso.Text))
             {
                 calcularAP();
+                Insertar_Datos();
             }
             else
             {
                 DisplayAlert("Datos vacios", "LLenar los campos vacios", "OK");
+            }
+        }
+        private void Insertar_Datos()
+        {
+            try
+            {
+
+                CONEXIONMAESTRA.Abrir();
+                SqlCommand cmd = new SqlCommand("sp_CalcularPeso", CONEXIONMAESTRA.conectar);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@Altura", txtAltura.Text);
+                cmd.Parameters.AddWithValue("@Peso", txtPeso.Text);
+                cmd.Parameters.AddWithValue("@Resultado", txtResultado.Text);
+                cmd.ExecuteNonQuery();
+                CONEXIONMAESTRA.Cerrar();
+            }
+            catch(Exception ex)
+            {
+                DisplayAlert("Erro en BD", ex.Message, "OK");
             }
         }
         public void calcularAP()
