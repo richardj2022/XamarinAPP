@@ -1,0 +1,15 @@
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\bin\Debug\netstandard2.0\XamarinAPP.deps.json
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\bin\Debug\netstandard2.0\XamarinAPP.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\bin\Debug\netstandard2.0\XamarinAPP.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\XamarinAPP.csproj.AssemblyReference.cache
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\XamarinAPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\XamarinAPP.AssemblyInfoInputs.cache
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\XamarinAPP.AssemblyInfo.cs
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\XamarinAPP.csproj.CoreCompileInputs.cache
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\XamlC.stamp
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\XamarinAPP.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\refint\XamarinAPP.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\XamarinAPP.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP\obj\Debug\netstandard2.0\ref\XamarinAPP.dll
