@@ -8,7 +8,7 @@ namespace XamarinAPP.Conexion
 {
     internal class CONEXIONMAESTRA
     {
-        public static string conexion = ("Data Source=200.55.239.9,1404;Initial Catalog=BASEAPPXAMARIN;User ID=sa;Password=dbdesarrollo1234");
+        public static string conexion = ("Data Source= #Rutadeservidor;Initial Catalog=#NombreBaseDatos;User ID=#Usuario;Password=#Contraseña");
         public static SqlConnection conectar = new SqlConnection(conexion);
         public static void Abrir ()
         { 
