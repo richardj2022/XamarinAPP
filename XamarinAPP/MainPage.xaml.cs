@@ -27,7 +27,7 @@ namespace XamarinAPP
             }
             else
             {
-                DisplayAlert("Datos vacios", "LLenar los campos vacios", "OK");
+                DisplayAlert("Datos vacios SERPROINTEC", "LLenar los campos vacios", "OK");
             }
         }
         private void Insertar_Datos()
