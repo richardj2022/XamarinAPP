@@ -34,7 +34,6 @@ namespace XamarinAPP
         {
             try
             {
-
                 CONEXIONMAESTRA.Abrir();
                 SqlCommand cmd = new SqlCommand("sp_CalcularPeso", CONEXIONMAESTRA.conectar);
                 cmd.CommandType = CommandType.StoredProcedure;

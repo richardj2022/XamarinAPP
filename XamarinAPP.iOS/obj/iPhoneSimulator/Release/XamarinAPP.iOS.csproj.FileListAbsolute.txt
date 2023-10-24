@@ -59,3 +59,4 @@ E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.iOS\obj\iPhon
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.iOS\obj\iPhoneSimulator\Release\XamarinAPP.iOS.csproj.CoreCompileInputs.cache
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.iOS\obj\iPhoneSimulator\Release\XamarinAPP.iOS.csproj.CopyComplete
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.iOS\obj\iPhoneSimulator\Release\XamarinAPP.iOS.exe
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.iOS\bin\iPhoneSimulator\Release\System.Data.SqlClient.dll

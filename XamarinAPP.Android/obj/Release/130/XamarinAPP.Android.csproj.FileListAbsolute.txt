@@ -447,3 +447,7 @@ E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\R
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\stamp\_GenerateJavaStubs.stamp
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\stamp\_GeneratePackageManagerJava.stamp
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\stamp\_ResolveLibraryProjectImports.stamp
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\System.Data.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\System.Data.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\System.Transactions.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\System.Transactions.pdb
