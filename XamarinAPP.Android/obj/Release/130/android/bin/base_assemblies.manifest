@@ -41,3 +41,9 @@ Hash 32     Hash 64             Blob ID  Blob idx  Name
 0xc197c562  0x8ac2470b209ebae3  000      0039      Mono.Security
 0xc5b79d28  0x6c87ca1e14ff8111  000      0040      System.Data
 0xcfd0c798  0x0d0e792aa81923a3  000      0041      System.Transactions
+0xd556f045  0x3194576a63650740  000      0042      I18N
+0x385cfa20  0x14b9cf22d3e70fc9  000      0043      I18N.CJK
+0xd3034a80  0x779989d4c8e01414  000      0044      I18N.MidEast
+0x5195bd4f  0x51937c55aa9db9f9  000      0045      I18N.Other
+0x4ce7b781  0x6b85a9abee524b4a  000      0046      I18N.Rare
+0x99db1da0  0x022b428a125098f1  000      0047      I18N.West

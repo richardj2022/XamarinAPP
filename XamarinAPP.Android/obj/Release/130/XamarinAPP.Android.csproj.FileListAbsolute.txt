@@ -451,3 +451,15 @@ E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\R
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\System.Data.pdb
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\System.Transactions.dll
 E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\System.Transactions.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.CJK.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.CJK.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.MidEast.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.MidEast.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.Other.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.Other.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.Rare.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.Rare.pdb
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.West.dll
+E:\DESARROLLO\SISTEMA_RESTAURANTE\Xamari_APP\XamarinAPP\XamarinAPP.Android\obj\Release\130\android\assets\I18N.West.pdb
